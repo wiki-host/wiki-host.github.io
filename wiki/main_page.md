@@ -2,7 +2,8 @@
 redirect_from: "/"
 ---
 
-This is a sample of main page. You can edit it to start your wiki.
-
-For documentation, installation guide and demo of [git-wiki-theme](git-wiki-theme) visit this [link](http://drassil.github.io/git-wiki/)
-
+# Wiki Host makes wikis for different projects, places, and more!
+I host wikis that need hosting. Plus, I make good wikis.
+## You can contact us via issues
+It feels unconfortable to use email or phone to contact me when you can just open an issue.
+## you can find all wikis made using the recent pages list
