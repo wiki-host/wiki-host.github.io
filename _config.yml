@@ -143,3 +143,9 @@ inc_before_page_list :
 inc_after_page_list :
 inc_before_post_list :
 inc_after_post_list :
+
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: wiki-host.github.io
