@@ -68,7 +68,7 @@ defaults:
     scope:
       path: "wiki"
     values:
-      permalink: /:basename/:title/
+      permalink: /:basename
  -
     scope:
       path: "" # an empty string here means all files in the project
